@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif" width="200"/>
   <h1 align="center">Hi 👋, I'm melpcode</h1>
-  <h3 align="center">A passionate backend developer from Peru, I love about all things about tech and coding, and this platform is where I showcase my journey as a developer and share my projects with the world, I'm constantly seeking to expand my knowledge and skills in various programming languages and frameworks</h3>
+  <h3 align="center"> A passionate backend developer from Peru, I love about all things about tech and coding, and this platform is where I showcase my journey as a developer and share my projects with the world, I'm constantly seeking to expand my knowledge and skills in various programming languages and frameworks </h3>
 </div>
 
 
